@@ -4,6 +4,3 @@ phases:
   build:
     commands:
       - echo Nothing to do yet
-artifacts:
-  files:
-    - none.txt
